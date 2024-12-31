@@ -1,4 +1,5 @@
-🍂 Hey, I'm Paul 
+🍂 Hey, my name is Paul ! 
+I'm a French computer science student from Paris.
 
 ## 🛠 Technologies & tools
 
@@ -9,7 +10,7 @@
 
 ## 💻 Current project
 
-- 
+- Null
 
 ## 📈 Stats
 
